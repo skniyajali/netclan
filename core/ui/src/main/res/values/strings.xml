@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="drawer_icon">Drawer Icon</string>
+    <string name="location_icon">Location Icon</string>
+    <string name="checklist_icon">Refine Icon</string>
+    <string name="refine">Refine</string>
+    <string name="fab_icon">Fab Icon</string>
+    <string name="empty_search_text">Try adjusting your search or filter to find what you looking for.</string>
+    <string name="empty_search_title">No Results Found</string>
+    <string name="go_back">Go Back</string>
+</resources>
