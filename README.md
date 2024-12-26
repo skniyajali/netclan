@@ -14,9 +14,9 @@ _**Few app icons and images might be differ from original app ui.**_
 
 ## Screenshots
 
-|                                                    |                                                |                                                   |
-|:--------------------------------------------------:|:----------------------------------------------:|--------------------------------------------------:|
-| ![App Screenshot](\docs\assets\explore_screen.jpg) | ![App Screenshot](\docs\assets\drawer_bar.jpg) |           ![App Screenshot](\docs\assets\fab.jpg) |
-|   ![App Screenshot](\docs\assets\empty_box.jpg)    | ![App Screenshot](\docs\assets\fab_button.jpg) | ![App Screenshot](\docs\assets\refine_screen.jpg) |
+|                                                                                                   |                                                                                               |                                                                                                  |
+|:-------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------:|-------------------------------------------------------------------------------------------------:|
+| ![App Screenshot](https://github.com/skniyajali/netclan/blob/main/docs/assets/explore_screen.jpg) | ![App Screenshot](https://github.com/skniyajali/netclan/blob/main/docs/assets/drawer_bar.jpg) |           ![App Screenshot](https://github.com/skniyajali/netclan/blob/main/docs/assets/fab.jpg) |
+|   ![App Screenshot](https://github.com/skniyajali/netclan/blob/main/docs/assets/empty_box.jpg)    | ![App Screenshot](https://github.com/skniyajali/netclan/blob/main/docs/assets/fab_button.jpg) | ![App Screenshot](https://github.com/skniyajali/netclan/blob/main/docs/assets/refine_screen.jpg) |
 
 
