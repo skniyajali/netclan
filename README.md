@@ -76,10 +76,6 @@ git clone https://github.com/skniyajali/netclan.git
 
 The app will launch, and you can explore its features for matchmaking, buying/selling, job searching, and matrimonial purposes.
 
-## CI/CD
-
-The project is integrated with **GitHub Actions** for continuous integration for automating the build and deployment processes. The CI/CD pipeline ensures efficient testing, building, and deploying of new versions of the app. Upon each commit, the pipeline runs tests and validates the build before pushing it to the app store.
-
 ## Contributing
 
 We welcome contributions from the community! Here’s how you can get involved:
